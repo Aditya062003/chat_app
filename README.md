@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is made using React Chat Engine, Sockets, Rest APIs, React Hooks, Props, and CSS!
 
 ## Available Scripts
 
